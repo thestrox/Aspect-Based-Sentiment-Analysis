@@ -7,7 +7,13 @@ It recognizes aspects and analyzes the sentiments using linear SVC for the SemEv
 Performance of the system is also compared with other classifiers.
 
 # Dataset
+[Dataset is avaibale in SemEval website.](https://www.google.com)
 http://alt.qcri.org/semeval2016/task5/index.php?id=data-and-tools
 
+# Required libraries
+  * Scikit Learn
+  * Nltk
+  * pandas
+  * numpy
 
 P.S. This is a Mini-Project for a 2 month crash course (NLP) in the Final Year at the Department of Computer Science and Engineering, Kathmandu University.
