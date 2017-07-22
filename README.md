@@ -10,4 +10,4 @@ Performance of the system is also compared with other classifiers.
 http://alt.qcri.org/semeval2016/task5/index.php?id=data-and-tools
 
 
-P.S. This is a Mini-Project for a 2 months crash course (NLP) in the Final Year at the Department of Computer Science and Engineering, Kathmandu University.
+P.S. This is a Mini-Project for a 2 month crash course (NLP) in the Final Year at the Department of Computer Science and Engineering, Kathmandu University.
